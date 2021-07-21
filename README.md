@@ -1,7 +1,7 @@
 # Introduction
 
 This repo records my answers to all questions from the excercises of XCS229
-(Summer 2021 and Autumn 2021). http://cs229.stanford.edu/syllabus.html
+(Summer 2021 and Autumn 2021). https://online.stanford.edu/courses/xcs229i-machine-learning
 
 I tried to record all details in my scripts and pdf files. If you see any
 mistake, please let me know by
